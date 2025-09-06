@@ -1,0 +1,2 @@
+$ zip -r shadcn-ui-project.zip .
+bash: line 1: zip: command not found
